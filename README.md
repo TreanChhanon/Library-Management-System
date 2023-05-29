@@ -1,6 +1,11 @@
 # Library-Management-System
 Owner : Trean Chhanon
 
+## Project Detials:
+
+- Using C# and SQL Server
+
+
 - Home Page
 
 ![Screenshot (127)](https://github.com/TreanChhanon/Library-Management-System/assets/123797735/6ed398c9-6cf6-4bd5-8408-e2c82884717b)
