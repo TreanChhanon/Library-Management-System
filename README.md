@@ -1,7 +1,7 @@
 # Library-Management-System
 Owner : Trean Chhanon
 
-## Project Detials:
+## Project Details:
 
 - Using C# and SQL Server
 
